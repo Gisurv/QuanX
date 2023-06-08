@@ -1,0 +1,7 @@
+# QuTing
+HOST-KEYWORD,dcloud.com,REJECT
+HOST-KEYWORD,dcloud.net,REJECT
+HOST-KEYWORD,getui.com,REJECT
+HOST-KEYWORD,getui.net,REJECT
+HOST-KEYWORD,gepush.com,REJECT
+HOST-KEYWORD,bspapp.com,REJECT
