@@ -1,0 +1,6 @@
+# > DMM
+DOMAIN-SUFFIX,dmm.co.jp,PROXY
+DOMAIN-SUFFIX,dmm.com,PROXY
+DOMAIN-SUFFIX,dmm-extension.com,PROXY
+# > MGSTAGE
+DOMAIN-SUFFIX,mgstage.com,PROXY
